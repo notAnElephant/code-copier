@@ -1,7 +1,7 @@
-@import '../color';
-@import '../variables';
+@use '../color';
+@use '../variables';
 
-@import './simplebar';
+@use 'simplebar';
 
 .history-block {
   &__title {
@@ -13,7 +13,7 @@
 
   &__info, &__actions {
     font-size: 0.75em;
-    color: $color-history-info;
+    color: color.$color-history-info;
     margin: 0;
   }
 
@@ -61,9 +61,9 @@
   }
 
   &__content {
-    color: $color-code-block-text;
-    background: $color-code-block-background;
-    box-shadow: $shadow-1;
+    color: color.$color-code-block-text;
+    background: color.$color-code-block-background;
+    box-shadow: variables.$shadow-1;
     border-radius: 0.25em;
 
     pre {
