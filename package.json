@@ -1,9 +1,9 @@
 {
   "name": "code-copier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Code Copier - Chrome Extension to copy contents inside <pre> and <code> tags",
   "private": true,
-  "author": "Ice Lam",
+  "author": "Ice Lam, Oliver Raisz",
   "license": "ISC",
   "scripts": {
     "clean": "rimraf ./dist",

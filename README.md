@@ -12,9 +12,11 @@
 ![Screen Preview](https://github.com/icelam/code-copier/raw/master/resources/chrome-promo/screenshot-1.png)
 ![Screen Preview](https://github.com/icelam/code-copier/raw/master/resources/chrome-promo/screenshot-2.png)
 
-## Download Link ##
-* [Download Chrome version](https://chrome.google.com/webstore/detail/code-copier/polidkhcaghmmijeemenkiloblpdfphp)
-* [Download Firefox version](https://addons.mozilla.org/en-US/firefox/addon/code-copier/)
+## Additional notes ##
+
+This plugin is a fork of [icelam/code-copier](https://github.com/icelam/code-copier), but as the original
+author didn't maintain it and it got removed from the Chrome Web Store, I decided to create a new repository
+to keep it up to date. All functionality is the original author's work.
 
 ## Development Notes ##
 * Setup: `yarn install`
