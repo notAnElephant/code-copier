@@ -1,12 +1,12 @@
-@import './color';
-@import './reset';
-@import './common';
-@import './components/header';
-@import './components/content';
-@import './components/tooltip';
-@import './components/messageBlock';
-@import './components/howTo';
-@import './components/historyBlock';
-@import './components/settingsButton';
+@use 'color';
+@use 'reset';
+@use 'common';
+@use 'components/header';
+@use 'components/content';
+@use 'components/tooltip';
+@use 'components/messageBlock';
+@use 'components/howTo';
+@use 'components/historyBlock';
+@use 'components/settingsButton';
 
-@import '../code-copier/animation';
+@use '../code-copier/animation';

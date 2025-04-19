@@ -2,7 +2,7 @@
  * Custom theme for node module Simplebar
  */
 
-@import '../color';
+@use '../color';
 
 [data-simplebar] {
   position: relative;
@@ -144,7 +144,7 @@
 .simplebar-scrollbar:before {
   position: absolute;
   content: '';
-  background: $color-scrollbar;
+  background: color.$color-scrollbar;
   border-radius: 7px;
   left: 0;
   right: 0;

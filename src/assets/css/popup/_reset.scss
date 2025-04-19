@@ -1,4 +1,4 @@
-@import './color';
+@use 'color';
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
 
 html,
@@ -11,19 +11,19 @@ body {
 
 a {
   text-decoration: none;
-  color: $color-link;
+  color: color.$color-link;
   transition: all .2s ease-out;
 
   &:visited {
     text-decoration: none;
-    color: $color-link;
+    color: color.$color-link;
   }
 
   &:focus,
   &:hover,
   &:active {
     text-decoration: none;
-    color: $color-link-hover;
+    color: color.$color-link-hover;
   }
 }
 
@@ -42,7 +42,7 @@ img {
 }
 
 hr {
-  background-color: $color-hr;
+  background-color: color.$color-hr;
   border: 0;
   clear: both;
   color: transparent;

@@ -1,12 +1,12 @@
-@import './color';
-@import './variables';
+@use 'color';
+@use 'variables';
 
 body {
-  width: $body-width;
+  width: variables.$body-width;
   overflow-x: hidden; /* Firefox scrollbar hack */
   max-height: 435px;
-  background-color: $color-body;
-  color: $color-body-text;
+  background-color: color.$color-body;
+  color: color.$color-body-text;
 }
 
 .container {

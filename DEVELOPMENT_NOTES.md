@@ -5,17 +5,17 @@ All JS files are packed using Gulp + Browserify + Babelify. To setup Vue which w
 
 ### Installation ###
 
-* `npm install`
+* `yarn install`
 
 ### Dev Server ###
 
-* `npm run dev`
+* `yarn run dev`
 
 ### Build Production ###
 
 All the build files can be found in `/dist` folder.
 
-* `npm run build`
+* `yarn run build`
 
 ### Debug ###
 * Chrome
@@ -32,5 +32,5 @@ All the build files can be found in `/dist` folder.
 * Chrome: Zip all content inside `/dist` folder after build, upload the zip file to webstore
 * Firefox: TBC
 
-`npm run pack` has been set to simplify the process.
+`yarn run pack` has been set to simplify the process.
 

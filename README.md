@@ -17,7 +17,7 @@
 * [Download Firefox version](https://addons.mozilla.org/en-US/firefox/addon/code-copier/)
 
 ## Development Notes ##
-* Setup: `npm install`
-* Development: `npm run dev`
-* Build: `npm run build`
-* Build and zip: `npm run pack`
+* Setup: `yarn install`
+* Development: `yarn run dev`
+* Build: `yarn run build`
+* Build and zip: `yarn run pack`

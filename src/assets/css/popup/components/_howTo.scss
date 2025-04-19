@@ -1,11 +1,13 @@
-@import '../color';
+@use "../variables";
+
+@use '../color';
 
 .how-to {
-  color: $color-how-to-text;
+  color: color.$color-how-to-text;
   text-align: center;
 
   &__image {
-    box-shadow: $shadow-1;
+    box-shadow: variables.$shadow-1;
     border-radius: 0.25em;
 
     & img {
