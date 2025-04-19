@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "name": "Code Copier",
-  "author": "Ice Lam",
-  "homepage_url": "https://github.com/icelam/code-copier",
-  "version": "1.0.2",
+  "author": "Ice Lam, Oliver Raisz",
+  "homepage_url": "https://github.com/notAnElephant/code-copier",
+  "version": "1.0.3",
   "description": "Code Copier - Extension to copy contents inside <code> and <pre> tags with right click",
   "icons": {
     "16": "assets/images/icons/icon16.png",
