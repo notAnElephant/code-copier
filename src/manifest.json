@@ -23,8 +23,7 @@
   },
   "permissions": [
     "clipboardWrite",
-    "storage",
-    "activeTab"
+    "storage"
   ],
   "content_scripts": [
     {
