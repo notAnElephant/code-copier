@@ -12,6 +12,11 @@
 ![Screen Preview](https://github.com/icelam/code-copier/raw/master/resources/chrome-promo/screenshot-1.png)
 ![Screen Preview](https://github.com/icelam/code-copier/raw/master/resources/chrome-promo/screenshot-2.png)
 
+## Download the extension
+
+Chrome: [Chome web store]([url](https://chromewebstore.google.com/detail/code-copier/kkikpmniajigmemahldgbadialjkbbmk))
+Firefox: [Firefox Addon]([url](https://addons.mozilla.org/en-US/firefox/addon/code-copier-new/))
+
 ## Additional notes ##
 
 This plugin is a fork of [icelam/code-copier](https://github.com/icelam/code-copier), but as the original
