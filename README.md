@@ -14,8 +14,8 @@
 
 ## Download the extension
 
-Chrome: ([Chome web store](https://chromewebstore.google.com/detail/code-copier/kkikpmniajigmemahldgbadialjkbbmk))
-Firefox: ([Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/code-copier-new/))
+Chrome: [Chome web store](https://chromewebstore.google.com/detail/code-copier/kkikpmniajigmemahldgbadialjkbbmk)
+Firefox: [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/code-copier-new/)
 
 ## Additional notes ##
 
