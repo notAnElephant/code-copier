@@ -1,4 +1,9 @@
 # Code Copier #
+
+If you find this project useful and want to support its development, you can buy me a ~~coffee~~ craft beer on Ko-fi. Any support helps keep the project maintained and updated.
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/oliverraisz)
+
 > Google Chrome and Mozilla Firefox extension to copy contents inside `<code>` and `<pre>` tags with right click.
 
 ![Screen Preview](https://github.com/icelam/code-copier/raw/master/resources/chrome-promo/large.png)
